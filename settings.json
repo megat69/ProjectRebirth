@@ -1,0 +1,30 @@
+{
+	"video": {
+		"fullscreen": true,
+		"vsync": false,
+		"fov": 60,
+		"framerate_limiter": null,
+		"reduce_water_effects": true,
+		"FXAA": false,
+		"legacy_models": false,
+		"water_bubbles": true,
+		"grass": true,
+		"pebbles": true,
+		"enable_model_prerendering": true,
+		"enable_animations": true
+	},
+	"controls": {
+		"sensitivity": [90, 90]
+	},
+	"bindings": {
+		"forward": "z",
+		"backward": "s",
+		"left": "q",
+		"right": "d"
+	},
+	"misc": {
+		"show_FPS_counter": true,
+		"playable_area_size": 32,
+		"hard_mode": true
+	}
+}
