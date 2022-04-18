@@ -17,9 +17,9 @@
 		"sensitivity": [90, 90]
 	},
 	"bindings": {
-		"forward": "z",
+		"forward": "w",
 		"backward": "s",
-		"left": "q",
+		"left": "a",
 		"right": "d"
 	},
 	"misc": {
