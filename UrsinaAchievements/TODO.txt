@@ -1,8 +1,0 @@
-UrsinaAchievements :
-- Popups at the bottom-right corner of the screen
-  - Contains an achievement name
-  - An icon
-- Achievements are only obtainable once
-- Every frame, each function given for the argument check is tested ; achievement is given if the function tests true
-- All gotten achievements are stored in a JSON file
-- An HTML file is generated with every achievement you got
